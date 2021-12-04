@@ -11,6 +11,10 @@ https://github.com/thecraigd/Python_SQL/blob/master/mysql.ipynb
 
 https://www.w3schools.com/sql/default.asp
 
+https://learnsql.com/blog/lead-and-lag-functions-in-sql/
+
+https://www.tutorialspoint.com/sql/sql-create-database.html
+
 
 ###Master in database
 
