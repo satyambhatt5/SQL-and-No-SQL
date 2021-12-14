@@ -24,4 +24,26 @@ https://github.com/at235am/cecs-323-practice-sql/blob/master/sql-practice-classi
 ####Most interview question for the different interview 
 
 https://github.com/learning-zone
+
+
+#Types of Window functions
+
+Aggregate Window Functions
+
+SUM(), MAX(), MIN(), AVG(). COUNT()
+
+#Ranking Window Functions
+
+RANK(), DENSE_RANK(), ROW_NUMBER(), NTILE()
+
+#Value Window Functions
+
+LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
+
+#Syntax
+
+window_function ( [ ALL ] expression ) 
+OVER ( [ PARTITION BY partition_list ] [ ORDER BY order_list] )
+ 
     
+window function link ---https://www.sqltutorial.org/sql-window-functions/
